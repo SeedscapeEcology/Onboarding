@@ -8,9 +8,9 @@ Importantly, ***I hope these meetings are useful for us both***. Please let me k
 
 ## Building your meetings template
 
-Create a file in the Project Management](https://github.com/SeedscapeEcology/ProjectManagement) repository called `Weekly-Reflections.md` inside a folder with your name (don't put a space, use a hypen to separate your first and last name(s)).
+Create a file in the [Project Management](https://github.com/SeedscapeEcology/ProjectManagement) repository called `Weekly-Reflections.md` inside a folder with your name (don't put a space, use a hypen to separate your first and last name(s)).
 
-You can see an example for me here: https://github.com/SeedscapeEcology/ProjectManagement/new/master/noelle-beckman/Weekly-Reflections.md
+You can see an example for me here: https://github.com/SeedscapeEcology/ProjectManagement/blob/master/noelle-beckman/Weekly-Reflections.md
 
 Inside that file, copy the template below. It's in markdown format and you might find this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) useful for getting started.
 

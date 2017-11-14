@@ -109,3 +109,5 @@ I hope you'll find that clear actions you need me to complete are responded to m
 
 Please add in anything else you'd like to cover that doesn't fit in one of the previous sections here.
 
+> The material in these weekly reflections is partially derived from "[Whitaker Lab Project Management](https://github.com/WhitakerLab/WhitakerLabProjectManagement)" by Dr. Kirstie Whitaker and the Whitaker Lab team, used under CC BY 4.0. The Beckman Research Group Weekly Reflections are licensed under CC BY 4.0 by Dr. Noelle G. Beckman.
+

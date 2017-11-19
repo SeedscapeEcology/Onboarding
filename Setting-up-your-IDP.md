@@ -6,7 +6,7 @@
 
 ## Building your IDP
 
-Either fill out one of the templates provided for [graduate students](https://www.unl.edu/gradstudies/current/development/idp) or [postdocs](https://postdoc.unl.edu/current/idp_review/) provided by the University of Nebraska or the [web-based career-planning tool](http://myidp.sciencecareers.org/) provided by *Science*, and share the results with Noelle.
+Either fill out one of the templates provided for [graduate students](https://www.unl.edu/gradstudies/current/development/idp) or [postdocs](https://postdoc.unl.edu/current/idp_review/) provided by the University of Nebraska or the [web-based career-planning tool](http://myidp.sciencecareers.org/) provided by *Science*, and share the results with Noelle. Also see advice on goal setting from [USU's Academic Success Center](https://www.usu.edu/asc/assistance/pdf/goal_setting.pdf).
 
 ## Summarize your IDP
 Create a file in the [Project Management](https://github.com/SeedscapeEcology/ProjectManagement) repository called `IDP.md` inside a folder with your name (don't put a space, use a hypen to separate your first and last name(s)). This will be the same folder in which you add your weekly reflections.

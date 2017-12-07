@@ -11,7 +11,7 @@ Either fill out one of the templates provided for [graduate students](https://ww
 ## Summarize your IDP
 Create a file in the [Project Management](https://github.com/SeedscapeEcology/ProjectManagement) repository called `IDP.md` inside a folder with your name (don't put a space, use a hypen to separate your first and last name(s)). This will be the same folder in which you add your weekly reflections.
 
-Inside that file, copy the template below that summarizes your IDP results. It's in markdown format and you might find this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) useful for getting started.
+Inside that file, copy the template below that summarizes your IDP results. It's in markdown format and you might find this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) useful for getting started. [Note: replace each instance of day and month under table of contents and after "Date:" with the actual the day and month.
 
 ```
 ## Table of Contents
@@ -59,5 +59,6 @@ What do you plan to achieve this semester or this year to advance your long-term
 </tr>
 </table>
 
+```
 
 > The Beckman Research Group Individual Development Plan Summary is licensed under CC BY 4.0 by Dr. Noelle G. Beckman.

@@ -20,14 +20,14 @@ Inside that file, copy the template below that summarizes your IDP results. It's
 ## Date: Day Month 2017
 
 ### Career Path 
-What are your long-term career goals? Where do you hope to be after you finish your graduate studies at USU?
+What are your long-term career goals? Where do you hope to be after you finish your studies at USU?
 
 Career option I: 
 
 Career option II: 
 
 #### Long-term Goals
-What additional milestones or skills do you need within your graduate program to advance your career goals that will take longer than a year?
+What additional milestones or skills do you need within your program to advance your career goals that will take longer than a year?
 <table border="1" cellpadding="8">
 <tr>
 <td> <b>What additional skills or tools will you need (e.g. training, courses, teaching, outreach, etc.)?</b> </td>

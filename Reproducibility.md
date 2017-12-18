@@ -4,7 +4,7 @@
 To quote from _The Pragmatic Programmer_:
 
 > Craftsmen of an earlier age were proud to sign their work.
-You should be, too…
+You should be, too√â
 People should see your name on a piece of code and expect it to be solid, well written, tested, and documented.
 
 While some code will be proof-of-concept code, it should be of a form that inspires confidence.
@@ -40,7 +40,7 @@ Keeping the pull request focused to one area makes it easier for your reviewers 
 **Reviewing Pull Requests:** We expect that all lab members will participate in review of pull requests.
 If you get named by the submitter, it's courteous to review the request.
 We have created a checklist to facilitate review.
-As a reviewer, you are responsible for making sure that all checklist guidelines are followed.
+As a reviewer, you are responsible for making sure that all [checklist guidelines](https://github.com/SeedscapeEcology/Onboarding/blob/master/code-review-checklist.md) are followed.
 
 **Projects that didn't work:** We expect that repositories will contain failures (e.g. proof-of-concepts that didn't work).
 This is ideal.

@@ -1,5 +1,7 @@
 # Pre-trip Advice for Panama
 
+Read over USU's [International Travel](https://risk.usu.edu) page that discusses International SOS and its coverage. Sign up for [travel insurance](https://risk.usu.edu/international_travel/program-cost).
+
 If you are a U.S. citizen, register with the U.S. embassy [U.S. Department of State Smart Traveler Enrollment Program (STEP)](https://step.state.gov).
 
 ## Currency / Debit & Credit cards
@@ -31,12 +33,45 @@ Internet is freely available at BCI
 ### Electricity
 The voltage and plug types in Panama are the same as in the U.S.A., so no need for an adapter.
 
+## Contact Information
+
+### US Embasy in Panama
+U.S. Embassy Panama City  
+Building 783, Demetrio Basilio Lakas Avenue  
+Clayton, Panama  
+Phone: (507) 317-5000  
+Email: panamaweb@state.gov
+
+### Smithsonian Tropical Research Institute 
+Luis Clement Avenue, Bldg. 401 Tupper  
+Balboa Ancon  
+Panama, Republic of Panama  
+
+**Visitors Office Manager**  
+Vanessa Bernal  
+Phone: +507 212.8231  
+Email: bernalv@si.edu  
+ 
+
+**Barro Colorado Island Site Administrator**  
+Hilda Castañeda  
+Phone: +507 212-8903  
+Email: castanedah@si.edu  
+
+**Emergencies**  
+Report all emergencies to STRI security  
+Phone: +507 555-5555  
+Phone: +507 212-8211
+
+Visit the [STRI webpage](https://stri.si.edu/facilities) for more contact information.
+
 ## Packing Guide
 Pack lightly! You will be able to launder your clothes while staying on BCI. Keep your valuables with you in your carry-on along with a change of clothes (in case your luggage arrives late).
 
 ### Important Documents
 - Passport – expiration at least six months after our return
 - 2 copies of your passport
+- Copy of Certified immunizations
 - Health insurance card
 - Some cash for souvenirs and miscellaneous expenses. ~$100 should be adequate depending on how many souvenirs you plan to buy. There is an ATM in Gamboa, so you will be able to get cash there, and most shops in Panama City accept credit cards.
 - Money belt or passport pouch that can be concealed beneath clothing
@@ -88,3 +123,5 @@ Plan to bring clothes for the city (e.g.m 1-2 sets if staying less than 2 weeks)
 - Bathing suit
 - Bandanas
 - Soft-foldable hat with brim for sun protection
+
+> The Beckman Research Group Pre-Trip Advice is licensed under CC BY 4.0 by Dr. Noelle G. Beckman.

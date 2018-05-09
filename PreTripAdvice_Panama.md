@@ -90,6 +90,7 @@ Pack lightly! You will be able to launder your clothes while staying on BCI. Kee
 - Sunglasses
 - Extra eyeglasses or contact lenses in case yours get broken or lost.
 - One towel; thin and fast-drying
+- Flash drive to back-up files
 
 ### Field Equipment
 - Flashlight/headlamp (with extra batteries)
@@ -97,14 +98,16 @@ Pack lightly! You will be able to launder your clothes while staying on BCI. Kee
 - Field notebook
 - Pencils and pens with waterproof ink. 1 or 2 “Sharpie” type waterproof markers. (Ink runs when it gets wet and your field book will most likelty get wet)
 - All-purpose multi-tool
-- Large envelope or plastic folder for handouts and other papers you will accumulate.
+- Plastic folder for handouts and other papers you will accumulate.
 - Compass
 - Whistle
 - Umbrella
 - Extra batteries for all your electronics
 - Large reusable water bottles or camelback systems. You must be able to carry 2 liters of water with you. Stay hydrated as it will be hot and humid!
 - Camera
-- Some zip-loc bags for wet items
+- Some zip-loc bags for wet items or to keep items dry
+- Masking tape
+- Duct tape
 
 ### Clothing
 Plan to bring clothes for the city (e.g.m 1-2 sets if staying less than 2 weeks), two/three sets of field clothes that can get muddy and wet, and something to relax in after the field. It will be hot and humid, so bring light, quick drying clothing. Heavy cotton and jeans tend to be hot and uncomfortable. Do not bring expensive watches or jewelry.

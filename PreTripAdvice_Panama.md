@@ -96,6 +96,7 @@ Pack lightly! You will be able to launder your clothes while staying on BCI. Kee
 - Binoculars. These are essential to see wildlife as well as leaves and flowers in the canopy
 - Field notebook
 - Pencils and pens with waterproof ink. 1 or 2 “Sharpie” type waterproof markers. (Ink runs when it gets wet and your field book will most likelty get wet)
+- All-purpose multi-tool
 - Large envelope or plastic folder for handouts and other papers you will accumulate.
 - Compass
 - Whistle

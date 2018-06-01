@@ -110,7 +110,7 @@ Pack lightly! You will be able to launder your clothes while staying on BCI. Kee
 - Duct tape
 
 ### Clothing
-Plan to bring clothes for the city (e.g.m 1-2 sets if staying less than 2 weeks), two/three sets of field clothes that can get muddy and wet, and something to relax in after the field. It will be hot and humid, so bring light, quick drying clothing. Heavy cotton and jeans tend to be hot and uncomfortable. Do not bring expensive watches or jewelry.
+Plan to bring clothes for the city (e.g. 1-2 sets if staying less than 2 weeks), two/three sets of field clothes that can get muddy and wet, and something to relax in after the field. It will be hot and humid, so bring light, quick drying clothing. Heavy cotton and jeans tend to be hot and uncomfortable. Do not bring expensive watches or jewelry.
 
 - Fast drying hiking boots or inexpensive rubber boots with extra insoles, preferably that cover your ankle. I tend to use rubber boots.
 - Tennis shoes to wear around town

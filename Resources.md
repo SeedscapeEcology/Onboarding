@@ -1,5 +1,5 @@
 # Resources
-> This is a living document curated by the group. For more 
+> This is a living document curated by the group. For more. See additional resources for research and professional development on the [Seedscape Ecology website](http://seedscape.github.io/BeckmanLab/Resources.html).
 
 
 

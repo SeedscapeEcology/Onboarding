@@ -82,8 +82,9 @@ Pack lightly! You will be able to launder your clothes while staying on BCI. Kee
 
 ### Miscellaneous
 - Toiletries (e.g., shampoo, toothpaste, contact lens solution, tampons)
-- Medical supplies including any required medications. We will have a first aid kit, but consider bringing a small supply of aspirin, antiseptic, hydrocortisone cream, and Band-Aids. If you have severe reactions to insect stings, you should bring an emergency adrenaline kit, such as “Anakit”, available by prescription.
-- Insect repellent
+- Medical supplies including any required medications. Consider bringing a small supply of aspirin, antiseptic, hydrocortisone cream, and Band-Aids. If you have severe reactions to insect stings, you should bring an emergency adrenaline kit, such as “Anakit”, available by prescription. 
+- Lab's first aid kit (make sure this is stocked)
+- Insect repellent to prevent bug bites. [Read advice from CDC](https://wwwnc.cdc.gov/travel/destinations/traveler/none/panama).
 - Sun screen (SPF 30 or higher).
 - Inexpensive, water-resistant watch with alarm clock
 - If you are a light sleeper, bring ear plugs for sleeping
@@ -91,6 +92,7 @@ Pack lightly! You will be able to launder your clothes while staying on BCI. Kee
 - Extra eyeglasses or contact lenses in case yours get broken or lost.
 - One towel; thin and fast-drying
 - Flash drive to back-up files
+- See the [CDC's *Healthy Travel Packing List*](https://wwwnc.cdc.gov/travel/destinations/panama/traveler/packing-list) for more suggestions.
 
 ### Field Equipment
 - Flashlight/headlamp (with extra batteries)

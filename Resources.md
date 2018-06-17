@@ -1,7 +1,7 @@
 # Resources
 > This is a living document curated by the group. See additional resources for research and professional development on the [Seedscape Ecology website](http://seedscape.github.io/BeckmanLab/Resources.html).
 
-## Work Life Balance
+## Work - Life Balance
 
 [*You do not need to work 80 hours a week to succeed in academia*](https://dynamicecology.wordpress.com/2014/02/04/you-do-not-need-to-work-80-hours-a-week-to-succeed-in-academia/) by Duffy - Dynamic Ecology 
 

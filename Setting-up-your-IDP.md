@@ -34,7 +34,6 @@ What additional milestones or skills do you need within your program to advance 
 <td> <b>How are you going to acquire these skills (e.g. training, courses, teaching, outreach, etc.)?</b> </td>
 <td> <b>When will you acquire them?</b> </td>
 </tr>
-</table>
 <tr>
 <td> <b> WRITE SKILLS HERE </b> </td>
 <td> <b> WRITE HOW TO ACQUIRE HERE</b> </td>
@@ -51,14 +50,204 @@ What do you plan to achieve this semester or this year to advance your long-term
 <td> <b>Estimated Completion</b> </td>
 <td> <b>Actual Completion</b> </td>
 </tr>
-</table>
 <tr>
 <td> WRITE GOALS HERE</td>
 <td> EST DATE OF COMPLETION </td>
 <td> ACTUAL DATE OF COMPLETION</td>
 </tr>
 </table>
+```
 
+Below is an example based on the template above:
+
+
+## Table of Contents
+* [3 January 2018](#date-3-january-2018)
+* [3 September 2017](#date-3-september-2017)
+
+## Date: 3 January 2018
+### Career Path 
+
+See [3 September 2017](#date-3-september-2017)
+
+
+#### Long-term Goals
+
+See [3 September 2017](#date-3-september-2017)
+
+#### Short/ and intermediate-term goals
+What do you plan to achieve this semester or this year to advance your long-term goals?
+<table border="1" cellpadding="8">
+<tr>
+<td> <b>Goal</b>    </td>
+<td> <b>Estimated Completion</b> </td>
+<td> <b>Actual Completion</b> </td>
+</tr>
+<tr>
+<td> Goal 1 </td>
+<td> EST DATE OF COMPLETION </td>
+<td> ACTUAL DATE OF COMPLETION</td>
+</tr>
+<tr>
+<td> Goal 2 </td>
+<td> EST DATE OF COMPLETION </td>
+<td> ACTUAL DATE OF COMPLETION</td>
+</tr> 
+</table>
+
+## Date: 3 September 2017
+
+### Career Path 
+What are your long-term career goals? Where do you hope to be after you finish your studies at USU?
+
+Career option I: 
+
+Career option II: 
+
+#### Long-term Goals
+What additional milestones or skills do you need within your program to advance your career goals that will take longer than a year?
+<table border="1" cellpadding="8">
+<tr>
+<td> <b>What additional skills or tools will you need (e.g. training, courses, teaching, outreach, etc.)?</b> </td>
+<td> <b>How are you going to acquire these skills (e.g. training, courses, teaching, outreach, etc.)?</b> </td>
+<td> <b>When will you acquire them?</b> </td>
+</tr>
+<tr>
+<td> <b>  SKILL 1 </b> </td>
+<td> <b>  How you will acquire Skill 1</b> </td>
+<td> <b>  When you will acquire Skill 1 </b> </td>
+</tr>
+<tr>
+<td> <b>  SKILL 2 </b> </td>
+<td> <b>  How you will acquire Skill 2 </b> </td>
+<td> <b>  When you will acquire Skill 2 </b> </td>
+</tr>
+</table>
+
+#### Short/ and intermediate-term goals
+What do you plan to achieve this semester or this year to advance your long-term goals?
+<table border="1" cellpadding="8">
+<tr>
+<td> <b>Goal</b>    </td>
+<td> <b>Estimated Completion</b> </td>
+<td> <b>Actual Completion</b> </td>
+</tr>
+<tr>
+<td> Goal 1 </td>
+<td> EST DATE OF COMPLETION </td>
+<td> ACTUAL DATE OF COMPLETION</td>
+</tr>
+<tr>
+<td> Goal 2 </td>
+<td> EST DATE OF COMPLETION </td>
+<td> ACTUAL DATE OF COMPLETION</td>
+</tr> 
+</table>
+
+
+Alternatively, you could use the following template for **Long-term Goals** developed by Sarah Bogen (code below):
+
+<table border="1" cellpadding="10">
+<tr>
+<td> <b>Skill or Tool</b> </td> <td> <b> Recent progress and overall status </b> </td>
+<td> <b> Planned progress for current semester </b> </td>
+<td> <b> Future progress </b> </td>
+</tr>
+<tr>
+<td> Skill 1 </td> 
+<td>
+  <ul>
+    <li> Progress A </li>
+    <li> Progress B </li>
+  </ul>
+  Overall status: Much better!
+</td>
+<td> 
+  <ul>
+    <li> Current Progress A </li>
+    <li> Current Progress B </li>
+  </ul>
+</td>
+<td>
+  <ul>
+    <li> Future progress </li>
+  </ul>
+</td>
+</tr>
+<tr>
+<td> Skill 2 </td>
+<td>
+  <ul>
+    <li> Progress A </li>
+    <li> Progress B </li>
+  </ul>
+  Overall status: No progress
+</td>
+<td> 
+  <ul>
+    <li> Current Progress </li>
+  </ul> 
+</td>
+<td> 
+  <ul>
+    <li> Future Progress A </li>
+    <li> Future Progress B </li>
+  </ul> 
+</td>
+</tr>
+</table>
+
+Code for above template
+```
+<table border="1" cellpadding="10">
+<tr>
+<td> <b>Skill or Tool</b> </td> <td> <b> Recent progress and overall status </b> </td>
+<td> <b> Planned progress for current semester </b> </td>
+<td> <b> Future progress </b> </td>
+</tr>
+<tr>
+<td> Skill 1 </td> 
+<td>
+  <ul>
+    <li> Progress A </li>
+    <li> Progress B </li>
+  </ul>
+  Overall status: Much better!
+</td>
+<td> 
+  <ul>
+    <li> Current Progress A </li>
+    <li> Current Progress B </li>
+  </ul>
+</td>
+<td>
+  <ul>
+    <li> Future progress </li>
+  </ul>
+</td>
+</tr>
+<tr>
+<td> Skill 2 </td>
+<td>
+  <ul>
+    <li> Progress A </li>
+    <li> Progress B </li>
+  </ul>
+  Overall status: No progress
+</td>
+<td> 
+  <ul>
+    <li> Current Progress </li>
+  </ul> 
+</td>
+<td> 
+  <ul>
+    <li> Future Progress A </li>
+    <li> Future Progress B </li>
+  </ul> 
+</td>
+</tr>
+</table>
 ```
 
 > The Beckman Research Group Individual Development Plan Summary is licensed under CC BY 4.0 by Dr. Noelle G. Beckman.

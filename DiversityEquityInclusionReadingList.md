@@ -7,6 +7,8 @@ Presumed Incompetent: The Intersections of Race and Class for Women in Academia.
 
 Stamped from the Beginning: The Definitive History of Racist Ideas in America by Dr. Ibram X. Kendi
 
+How to be an Antiracist by Dr. Ibram X Kendi
+
 Black Faces, White Spaces: Reimagining the Relationship of African Americans to the Great Outdoors by Dr. Carolyn Finney
 
 [Decolonizing Science Reading List](https://medium.com/@chanda/decolonising-science-reading-list-339fb773d51f#.om5w2ivfq) curated by Dr. Chanda Prescod-Weinsten

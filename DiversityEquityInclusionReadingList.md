@@ -13,6 +13,10 @@ Black Faces, White Spaces: Reimagining the Relationship of African Americans to 
 
 Ghost Stories for Darwin by Dr. Banu Subramaniam
 
+An Indigenous People’s History of the United States: Roxanne Dunbar-Ortiz
+
+[The reading list of the Wilderness Geogrpahy Lab](http://www.wilderness.wvu.edu/lab-reading-list/) curated by Dr. Johnathan Hall
+
 [Decolonizing Science Reading List](https://medium.com/@chanda/decolonising-science-reading-list-339fb773d51f#.om5w2ivfq) curated by Dr. Chanda Prescod-Weinsten
 
 [Diversity, Equity, & Inclusion in Science: A Reading List](https://medium.com/@priyology/diversity-inclusion-in-science-a-reading-list-a45cea40b972) curated by Priya Shukla

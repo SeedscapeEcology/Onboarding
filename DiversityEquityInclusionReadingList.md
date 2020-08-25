@@ -11,6 +11,8 @@ How to be an Antiracist by Dr. Ibram X Kendi
 
 Black Faces, White Spaces: Reimagining the Relationship of African Americans to the Great Outdoors by Dr. Carolyn Finney
 
+Ghost Stories for Darwin by Dr. Banu Subramaniam
+
 [Decolonizing Science Reading List](https://medium.com/@chanda/decolonising-science-reading-list-339fb773d51f#.om5w2ivfq) curated by Dr. Chanda Prescod-Weinsten
 
 [Diversity, Equity, & Inclusion in Science: A Reading List](https://medium.com/@priyology/diversity-inclusion-in-science-a-reading-list-a45cea40b972) curated by Priya Shukla

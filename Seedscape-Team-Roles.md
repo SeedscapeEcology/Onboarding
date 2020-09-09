@@ -3,12 +3,13 @@
 
 | Title                     | Name           |
 | --------------------------| ---------------|
-| Seedscape Blog Manager    |        |
-| Grants Manager            |     |
-| Team Meeting Manager      |     |
-| Outreach Coordinator      |    |
-| Lab Manager               |  |
-| Social Events Manager     |  |
+| Seedscape Blog Manager    |   Rosemary Hopson     |
+| Grants Manager            |   Elsa Jos  |
+| Team Meeting Manager      |   Binod Borah  |
+| Outreach Coordinator      |  Cole Carlson  |
+| Lab Manager               | Jerry Schneider |
+| Social Events Manager     | Noelle Beckman |
+| Tech Support              | Sarah Bogen |
 
 
 

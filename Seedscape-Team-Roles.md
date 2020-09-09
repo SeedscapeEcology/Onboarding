@@ -1,3 +1,17 @@
+
+# 2020-2021
+
+| Title                     | Name           |
+| --------------------------| ---------------|
+| Seedscape Blog Manager    |        |
+| Grants Manager            |     |
+| Team Meeting Manager      |     |
+| Outreach Coordinator      |    |
+| Lab Manager               |  |
+| Social Events Manager     |  |
+
+
+
 # 2019-2020
 
 | Title                     | Name           |

@@ -11,3 +11,7 @@
 
 [Writing in the Sciences - Coursera](https://www.coursera.org/learn/sciwrite)
 - Covers helpful processes such as limiting filler words, using active voice, and other general tips and tricks to improve your writing
+
+## Coding
+
+[FasteR! HigheR! StrongeR! - A Guide to Speeding Up R Code for Busy People](https://www.noamross.net/archives/2013-04-25-faster-talk/) by Dr. Noah Ross

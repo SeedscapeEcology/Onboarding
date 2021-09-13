@@ -4,14 +4,14 @@
 
 | Title                     | Name           |
 | --------------------------| ---------------|
-| Seedscape Blog Manager    |    |
-| Grants Manager            |    |
-| Team Meeting Manager      |    |
-| Outreach Coordinator      |    |
+| Seedscape Blog Manager    |  Brynn Harshbarger  |
+| Grants Manager            | Binod Borah   |
+| Team Meeting Manager      | Rosemary Hopson   |
+| Outreach Coordinator      | Noelle Beckman  |
 | Lab Manager               |  Elsa Jos |
 | Field Manager             |  Jerry Schneider |
-| Social Events Manager     |  |
-| Tech Support              | Sarah Bogen |
+| Social Events Manager     | Brynn Harshbarger |
+| Computational Manager     | Sarah Bogen |
 
 
 # 2020-2021

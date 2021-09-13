@@ -1,4 +1,19 @@
 
+
+# 2021-2022
+
+| Title                     | Name           |
+| --------------------------| ---------------|
+| Seedscape Blog Manager    |    |
+| Grants Manager            |    |
+| Team Meeting Manager      |    |
+| Outreach Coordinator      |    |
+| Lab Manager               |  Elsa Jos |
+| Field Manager             |  Jerry Schneider |
+| Social Events Manager     |  |
+| Tech Support              | Sarah Bogen |
+
+
 # 2020-2021
 
 | Title                     | Name           |

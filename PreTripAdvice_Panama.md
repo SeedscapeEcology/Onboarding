@@ -130,4 +130,28 @@ Plan to bring clothes for the city (e.g. 1-2 sets if staying less than 2 weeks),
 - Bandanas
 - Soft-foldable hat with brim for sun protection
 
+## Laboratory Supplies
+
+***Chemistry store***
+Compañia Distribuidora Jema, S.A.
+Bethania Villa Caceres
+Casa #116, Calle 76
+Provincia de Panama
+Telephone: (507) 260-4966 / 260 - 1001
+
+***Science education store that carries general purpose science supplies***
+Educa Libreria didactica, S.A.
+Calle 57, Obarrio
+Telephone: 269-4624
+
+## Getting around
+
+### Taxis
+Lucas Arrocha (507) 6641-7575 
+In Panama City. Recommended by STRI visitor office
+
+Gilberto Batista (507) 6522-3693
+Lives in Gamboa
+
+
 > The Beckman Research Group Pre-Trip Advice is licensed under CC BY 4.0 by Dr. Noelle G. Beckman.

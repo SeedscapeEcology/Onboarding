@@ -132,17 +132,17 @@ Plan to bring clothes for the city (e.g. 1-2 sets if staying less than 2 weeks),
 
 ## Laboratory Supplies
 
-***Chemistry store***
-Compañia Distribuidora Jema, S.A.
-Bethania Villa Caceres
-Casa #116, Calle 76
-Provincia de Panama
-Telephone: (507) 260-4966 / 260 - 1001
+***Chemistry store***<br>
+Compañia Distribuidora Jema, S.A.<br>
+Bethania Villa Caceres<br>
+Casa #116, Calle 76<br>
+Provincia de Panama<br>
+Telephone: (507) 260-4966 / 260 - 1001 <br>
 
-***Science education store that carries general purpose science supplies***
-Educa Libreria didactica, S.A.
-Calle 57, Obarrio
-Telephone: 269-4624
+***Science education store that carries general purpose science supplies*** <br>
+Educa Libreria didactica, S.A. <br>
+Calle 57, Obarrio <br>
+Telephone: 269-4624 <br>
 
 ## Getting around
 

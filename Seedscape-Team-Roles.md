@@ -1,5 +1,22 @@
 
 
+Responsibilities for each role....
+
+
+# 2022-2023
+
+| Title                     | Name           |
+| --------------------------| ---------------|
+| Social Media Manager    |  Elsa Jos  |
+| Grants Manager            | Binod Borah   |
+| Team Meeting Manager      | Brynn & Sarah   |
+| Outreach Coordinator      | Noelle Beckman  |
+| Lab Manager               |  Jennifer Bryan |
+| Field Manager             |  Jerry Schneider |
+| Social Events Manager     | Brynn Harshbarger |
+| Computational Manager     | Sarah Bogen |
+
+
 # 2021-2022
 
 | Title                     | Name           |

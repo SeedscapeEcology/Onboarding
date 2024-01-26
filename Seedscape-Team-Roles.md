@@ -1,5 +1,19 @@
 
 
+# 2023-2024
+
+| Title                     | Name           |
+| --------------------------| ---------------|
+| Social Media Manager    |  Elsa Jos  |
+| Grants Manager            |  |
+| Team Meeting Manager      |  Sarah   |
+| Outreach Coordinator      | Noelle Beckman  |
+| Lab Manager               |  Jennifer Bryan |
+| Field Manager             |  Jerry Schneider |
+| Social Events Manager     |  |
+| Computational Manager     | Sarah Bogen |
+
+
 # 2022-2023
 
 | Title                     | Name           |
